@@ -3,3 +3,4 @@ new content
 new content
 Modified in the second branch
 Updated in second branch
+Modified in the second branch
