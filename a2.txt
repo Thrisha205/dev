@@ -1,1 +1,4 @@
 File 2
+new content
+new content
+Modified in the second branch
