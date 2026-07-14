@@ -1,2 +1,3 @@
 This is file2 
 Modified in second branch
+Updated in second branch
